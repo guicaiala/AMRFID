@@ -1,0 +1,23 @@
+# Sintaxe de destaque para a biblioteca AMRFID
+# Formato: NOME<TAB>TIPO_PALAVRA_CHAVE
+#
+# KEYWORD1 → nome de classe/tipo     (laranja)
+# KEYWORD2 → nome de método/função   (laranja-escuro)
+# LITERAL1 → constantes              (azul)
+
+# ── Classe ────────────────────────────────────────────────────────────────────
+AMRFID	KEYWORD1
+
+# ── Métodos públicos ─────────────────────────────────────────────────────────
+begin	KEYWORD2
+lerUID	KEYWORD2
+verificar	KEYWORD2
+adicionarUID	KEYWORD2
+removerUID	KEYWORD2
+totalCartoes	KEYWORD2
+limiteCartoes	KEYWORD2
+setOnAutorizado	KEYWORD2
+setOnNegado	KEYWORD2
+
+# ── Constante ─────────────────────────────────────────────────────────────────
+MAX_UIDS	LITERAL1
