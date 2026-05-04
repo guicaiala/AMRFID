@@ -4,7 +4,6 @@
 
 [![Arduino Library](https://img.shields.io/badge/Arduino-Library-blue?logo=arduino)](https://www.arduino.cc/reference/en/libraries/)
 [![Version](https://img.shields.io/badge/version-1.0.0-green)]()
-[![License](https://img.shields.io/badge/license-MIT-orange)]()
 
 ---
 
@@ -244,11 +243,7 @@ Contribuições são bem-vindas!
 4. Faz push para o branch (`git push origin feature/nova-funcionalidade`)
 5. Abre um Pull Request
 
----
 
-## 📄 Licença
-
-Distribuído sob a licença **MIT**. Consulta o ficheiro [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
