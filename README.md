@@ -258,3 +258,6 @@ Contribuições são bem-vindas!
 ## ⭐ Gostaste do projeto?
 
 Deixa uma estrela no repositório — ajuda outros makers a encontrar a biblioteca!
+
+##License
+MIT License
