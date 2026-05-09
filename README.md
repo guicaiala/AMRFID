@@ -260,4 +260,5 @@ Contribuições são bem-vindas!
 Deixa uma estrela no repositório — ajuda outros makers a encontrar a biblioteca!
 
 ##License
-MIT License
+
+This project is licensed under the MIT License.
