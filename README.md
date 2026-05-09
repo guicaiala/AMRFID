@@ -2,8 +2,9 @@
 
 > Camada de abstração sobre a biblioteca MFRC522 que simplifica a leitura e validação de cartões RFID no Arduino.
 
-[![Arduino Library](https://img.shields.io/badge/Arduino-Library-blue?logo=arduino)](https://www.arduino.cc/reference/en/libraries/)
+[![Arduino Library](https://img.shields.io/badge/Arduino-Library-blue?logo=arduino)](...)
 [![Version](https://img.shields.io/badge/version-1.0.0-green)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
