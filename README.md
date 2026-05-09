@@ -272,4 +272,4 @@ Deixa uma estrela no repositório — ajuda outros makers a encontrar a bibliote
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the **[MIT License](LICENSE)**.
