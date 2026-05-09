@@ -266,7 +266,7 @@ Contribuições são bem-vindas!
 - Email: guicaiala@gmail.com
 
 ---
-
+ 
 ## ⭐ Gostaste do projeto?
 
 Deixa uma estrela no repositório — ajuda outros makers a encontrar a biblioteca!
