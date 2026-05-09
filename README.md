@@ -217,18 +217,29 @@ Acede aos exemplos em: **File → Examples → AMRFID**
 
 ```
 AMRFID/
-├── AMRFID.h                              # Interface pública
-├── AMRFID.cpp                            # Implementação
-├── library.properties                    # Metadados Arduino
-├── keywords.txt                          # Destaque de sintaxe
-├── README.md                             # Este ficheiro
-└── examples/
-    ├── ExemploBasico/
-    │   └── ExemploBasico.ino
-    ├── ControleAcesso/
-    │   └── ControleAcesso.ino
-    └── GerenciadorCartoes/
-        └── GerenciadorCartoes.ino
+│
+├── src/
+│   ├── AMRFID.h
+│   └── AMRFID.cpp
+│
+├── examples/
+│   │
+│   ├── ExemploBasico/
+│   │   └── ExemploBasico.ino
+│   │
+│   ├── LerUID/
+│   │   └── LerUID.ino
+│   │
+│   ├── ControleAcesso/
+│   │   └── ControleAcesso.ino
+│   │
+│   └── GerenciadorCartoes/
+│       └── GerenciadorCartoes.ino
+│
+├── library.properties
+├── keywords.txt
+├── README.md
+└── LICENSE
 ```
 
 ---
